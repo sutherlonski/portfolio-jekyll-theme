@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# James Sutherland
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+My name is James Sutherland. I live just outside London. My educational background is in medicine but I am currently working in Westminster as a researcher. Recent research projects include analysing the Smoking and Vaping Bill, the conflict in the Sudan, and Free School Meal provision in the UK. My professional goal is to develop coding skills and incorperate them into my research work. My personal interests include cats, gardening, Go (East Asian board game), and Japanese history.
+
+
